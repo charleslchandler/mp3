@@ -3,7 +3,9 @@ GEM
   specs:
     fftw3 (0.3)
       narray
+    gruff (0.3.7)
     narray (0.6.0.8)
+    rmagick (2.13.2)
     ruby-audio (1.6.1)
 
 PLATFORMS
@@ -11,5 +13,7 @@ PLATFORMS
 
 DEPENDENCIES
   fftw3
+  gruff
   narray
+  rmagick
   ruby-audio
